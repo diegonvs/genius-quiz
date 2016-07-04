@@ -1,0 +1,244 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DIEGONASCIMENTO</Machine>
+    <WindowsUser>Diego</WindowsUser>
+    <TargetPlatformIdentifier>Windows</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>e1ddbb46-a43c-490f-901d-4aa35982eeb7</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.Windows\obj\Debug\</IntermediateOutputPath>
+    <RegisteredManifestChecksum>599015E99E712269EBEB395145A1E84CEED1215868CC70D14E2622378C40F1A7</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>e1ddbb46-a43c-490f-901d-4aa35982eeb7_1.0.0.0_neutral__8y6681qq160n6</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>e1ddbb46-a43c-490f-901d-4aa35982eeb7_8y6681qq160n6!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>e1ddbb46-a43c-490f-901d-4aa35982eeb7</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=Casa</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+    <JitOptimizationSuppressed>True</JitOptimizationSuppressed>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.Windows\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-09T07:19:58.697</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.Windows\bin\Debug\Projeto.Windows.exe">
+      <PackagePath>Projeto.Windows.exe</PackagePath>
+      <Modified>2015-06-09T11:53:08.792</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.Windows\Assets\BadgeLogo.scale-100.png">
+      <PackagePath>Assets\BadgeLogo.scale-100.png</PackagePath>
+      <Modified>2015-06-08T22:35:38.804</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.Windows\Assets\BadgeLogo.scale-140.png">
+      <PackagePath>Assets\BadgeLogo.scale-140.png</PackagePath>
+      <Modified>2015-06-08T22:35:20.930</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.Windows\Assets\BadgeLogo.scale-180.png">
+      <PackagePath>Assets\BadgeLogo.scale-180.png</PackagePath>
+      <Modified>2015-06-08T22:34:51.691</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.Windows\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-08T20:45:22.766</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.Windows\Assets\Logo.scale-140.png">
+      <PackagePath>Assets\Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-08T20:47:50.961</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.Windows\Assets\Logo.scale-180.png">
+      <PackagePath>Assets\Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-08T22:18:07.952</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.Windows\Assets\Logo.scale-80.png">
+      <PackagePath>Assets\Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-08T20:54:44.236</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.Windows\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-08T22:28:01.956</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.Windows\Assets\SmallLogo.scale-140.png">
+      <PackagePath>Assets\SmallLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-08T22:27:44.634</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.Windows\Assets\SmallLogo.scale-180.png">
+      <PackagePath>Assets\SmallLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-08T22:27:22.351</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.Windows\Assets\SmallLogo.scale-80.png">
+      <PackagePath>Assets\SmallLogo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-08T22:28:18.362</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.Windows\Assets\SmallLogo.targetsize-16.png">
+      <PackagePath>Assets\SmallLogo.targetsize-16.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-08T22:31:27.208</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.Windows\Assets\SmallLogo.targetsize-256.png">
+      <PackagePath>Assets\SmallLogo.targetsize-256.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-08T22:30:17.823</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.Windows\Assets\SmallLogo.targetsize-32.png">
+      <PackagePath>Assets\SmallLogo.targetsize-32.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-08T22:31:12.738</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.Windows\Assets\SmallLogo.targetsize-48.png">
+      <PackagePath>Assets\SmallLogo.targetsize-48.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-08T22:30:58.527</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.Windows\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-08T22:43:07.806</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.Windows\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-08T22:42:46.358</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.Windows\Assets\SplashScreen.scale-180.png">
+      <PackagePath>Assets\SplashScreen.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-08T22:41:49.389</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.Windows\Assets\Square310x310Logo.scale-100.png">
+      <PackagePath>Assets\Square310x310Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-08T22:25:20.704</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.Windows\Assets\Square310x310Logo.scale-140.png">
+      <PackagePath>Assets\Square310x310Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-08T22:24:49.146</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.Windows\Assets\Square310x310Logo.scale-180.png">
+      <PackagePath>Assets\Square310x310Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-08T22:26:52.922</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.Windows\Assets\Square310x310Logo.scale-80.png">
+      <PackagePath>Assets\Square310x310Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-08T22:25:32.606</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.Windows\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-08T22:32:44.776</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.Windows\Assets\StoreLogo.scale-140.png">
+      <PackagePath>Assets\StoreLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-08T22:32:31.563</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.Windows\Assets\StoreLogo.scale-180.png">
+      <PackagePath>Assets\StoreLogo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-08T22:32:16.937</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.Windows\Assets\Wide310x150Logo.scale-100.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-08T22:22:53.334</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.Windows\Assets\Wide310x150Logo.scale-140.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-08T22:22:29.878</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.Windows\Assets\Wide310x150Logo.scale-180.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-180.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-08T22:21:47.198</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.Windows\Assets\Wide310x150Logo.scale-80.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-80.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-08T22:23:09.242</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.Shared\geniusnovo.png">
+      <PackagePath>geniusnovo.png</PackagePath>
+      <Modified>2015-06-03T04:52:55.053</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.Shared\trollphace.png">
+      <PackagePath>trollphace.png</PackagePath>
+      <Modified>2015-06-08T20:39:20.217</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.Windows\Assets\Square70x70Logo.scale-100.jpg">
+      <PackagePath>Assets\Square70x70Logo.scale-100.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-03T17:18:51.562</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.Windows\Assets\Square70x70Logo.scale-140.jpg">
+      <PackagePath>Assets\Square70x70Logo.scale-140.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-03T17:23:45.910</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.Windows\Assets\Square70x70Logo.scale-180.jpg">
+      <PackagePath>Assets\Square70x70Logo.scale-180.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-03T17:20:29.036</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.Windows\Assets\Square70x70Logo.scale-80.jpg">
+      <PackagePath>Assets\Square70x70Logo.scale-80.jpg</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2015-06-03T17:22:09.192</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.Windows\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2015-06-09T11:44:04.702</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.Windows\bin\Debug\ComoJogar.xbf">
+      <PackagePath>ComoJogar.xbf</PackagePath>
+      <Modified>2015-06-08T23:35:31.367</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.Windows\bin\Debug\JogoSequencia.xbf">
+      <PackagePath>JogoSequencia.xbf</PackagePath>
+      <Modified>2015-06-09T11:44:04.703</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.Windows\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2015-06-08T23:35:31.367</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.Windows\bin\Debug\Questionario.xbf">
+      <PackagePath>Questionario.xbf</PackagePath>
+      <Modified>2015-06-09T11:44:04.704</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.Windows\bin\Debug\Ranking.xbf">
+      <PackagePath>Ranking.xbf</PackagePath>
+      <Modified>2015-06-09T11:44:04.704</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.Windows\bin\Debug\Resultado.xbf">
+      <PackagePath>Resultado.xbf</PackagePath>
+      <Modified>2015-06-08T23:35:31.369</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.Windows\bin\Debug\Sobre.xbf">
+      <PackagePath>Sobre.xbf</PackagePath>
+      <Modified>2015-06-03T16:20:14.224</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.Windows\bin\Debug\Projeto.Windows.xr.xml">
+      <PackagePath>Projeto.Windows.xr.xml</PackagePath>
+      <Modified>2015-06-09T11:44:03.625</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.Windows\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2015-06-09T07:19:58.265</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

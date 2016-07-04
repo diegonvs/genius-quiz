@@ -1,0 +1,44 @@
+﻿<Page
+    x:Class="Projeto.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Projeto"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Margin="10">
+        <Canvas Background="White">
+
+            <StackPanel Visibility="Collapsed"  x:Name="selecionaPergunta">
+                <TextBlock x:Name="tb1" Text="GeniusQuiz!" Style="{StaticResource fontePrincipal}" Canvas.Left="50"></TextBlock>
+                <TextBlock x:Name="tb2" Canvas.Top="120" Style="{StaticResource fontePrincipal}" Text="Escolha o tipo de pergunta:" FontSize="30"/>
+                
+                <RadioButton Style="{StaticResource radioButton}" Click="Portugues_Click"  Canvas.Top="180" x:Name="Portugues" Content="Português"/>
+                <RadioButton  Style="{StaticResource radioButton}" Click="Matematica_Click" Canvas.Top="230"  x:Name="Matematica" Content="Matemática"/>
+                <RadioButton  Style="{StaticResource radioButton}" Click="Variedades_Click" Canvas.Top="280" x:Name="Variedades"  Content="Variedades" />
+                <TextBlock x:Name="Alerta"></TextBlock>
+                <Button  Content="Confirmar" Style="{StaticResource botaoFundoBacana}" x:Name="Enviar" Click="Enviar_Click" VerticalAlignment="Center" HorizontalAlignment="Right" Canvas.Left="238" Canvas.Top="280"/>
+            </StackPanel>
+            <StackPanel x:Name="menu" Canvas.Top="250">
+                <TextBlock Text="  GeniusQuiz!" Style="{StaticResource fontePrincipal}" Canvas.Left="50"></TextBlock>
+                <TextBlock Style="{StaticResource fontePrincipal}" FontSize="20" Canvas.Left="20"  Text="Seja bem vindo ao melhor jogo já inventado pelo homem." TextWrapping="Wrap" Canvas.Top="350" Height="54" Width="380" />
+                <Button Style="{StaticResource bQuest}" Content="Jogar!" HorizontalAlignment="Center" x:Name="prei" Click="prei_Click" />
+                <Button Style="{StaticResource bQuest}" Content="Como Jogar?" HorizontalAlignment="Center" x:Name="como" Click="como_Click" />
+                <Button Style="{StaticResource bQuest}" Content="Sobre" HorizontalAlignment="Center" x:Name="sobre" Click="sobre_Click" />
+                <Button Style="{StaticResource bQuest}" Content="Ranking" HorizontalAlignment="Center" x:Name="ranking" Click="ranking_Click" />
+            </StackPanel>
+            
+        </Canvas>
+        
+        
+        
+        <VisualStateManager.VisualStateGroups>
+            <VisualStateGroup x:Name="ApplicationViewStates">
+                <VisualState x:Name="Portrait" />
+                <VisualState x:Name="Landscape" />
+            </VisualStateGroup>
+        </VisualStateManager.VisualStateGroups>
+    </Grid>
+</Page>

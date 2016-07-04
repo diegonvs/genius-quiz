@@ -1,0 +1,290 @@
+c:\users\thainá\documents\visual studio 2013\Projects\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\App.g.i.cs
+c:\users\thainá\documents\visual studio 2013\Projects\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\App.g.cs
+c:\users\thainá\documents\visual studio 2013\Projects\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\JogoSequencia.g.i.cs
+c:\users\thainá\documents\visual studio 2013\Projects\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\JogoSequencia.g.cs
+c:\users\thainá\documents\visual studio 2013\Projects\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\MainPage.g.i.cs
+c:\users\thainá\documents\visual studio 2013\Projects\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\MainPage.g.cs
+c:\users\thainá\documents\visual studio 2013\Projects\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Questionario.g.i.cs
+c:\users\thainá\documents\visual studio 2013\Projects\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Questionario.g.cs
+c:\users\thainá\documents\visual studio 2013\Projects\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Resultado.g.i.cs
+c:\users\thainá\documents\visual studio 2013\Projects\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Resultado.g.cs
+c:\users\thainá\documents\visual studio 2013\Projects\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+c:\users\thainá\documents\visual studio 2013\Projects\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\App.xaml
+c:\users\thainá\documents\visual studio 2013\Projects\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\App.xbf
+c:\users\thainá\documents\visual studio 2013\Projects\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+c:\users\thainá\documents\visual studio 2013\Projects\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\JogoSequencia.xaml
+c:\users\thainá\documents\visual studio 2013\Projects\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\MainPage.xaml
+c:\users\thainá\documents\visual studio 2013\Projects\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Questionario.xaml
+c:\users\thainá\documents\visual studio 2013\Projects\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Resultado.xaml
+c:\users\thainá\documents\visual studio 2013\Projects\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\JogoSequencia.xbf
+c:\users\thainá\documents\visual studio 2013\Projects\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\MainPage.xbf
+c:\users\thainá\documents\visual studio 2013\Projects\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Questionario.xbf
+c:\users\thainá\documents\visual studio 2013\Projects\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Resultado.xbf
+c:\users\thainá\documents\visual studio 2013\Projects\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\App.xbf
+c:\users\thainá\documents\visual studio 2013\Projects\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\JogoSequencia.xbf
+c:\users\thainá\documents\visual studio 2013\Projects\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\MainPage.xbf
+c:\users\thainá\documents\visual studio 2013\Projects\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\Questionario.xbf
+c:\users\thainá\documents\visual studio 2013\Projects\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\Resultado.xbf
+c:\users\thainá\documents\visual studio 2013\Projects\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\Projeto.WindowsPhone.xr.xml
+c:\users\thainá\documents\visual studio 2013\Projects\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\Projeto.WindowsPhone.exe
+c:\users\thainá\documents\visual studio 2013\Projects\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\Projeto.WindowsPhone.pdb
+c:\users\thainá\documents\visual studio 2013\Projects\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\resources.pri
+c:\users\thainá\documents\visual studio 2013\Projects\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\AppxManifest.xml
+c:\users\thainá\documents\visual studio 2013\Projects\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\Projeto.WindowsPhone.build.appxrecipe
+c:\users\thainá\documents\visual studio 2013\Projects\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Projeto.WindowsPhone.exe
+c:\users\thainá\documents\visual studio 2013\Projects\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Projeto.WindowsPhone.pdb
+c:\users\thainá\documents\visual studio 2013\Projects\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\priconfig.xml
+c:\users\thainá\documents\visual studio 2013\Projects\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+c:\users\thainá\documents\visual studio 2013\Projects\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\layout.resfiles
+c:\users\thainá\documents\visual studio 2013\Projects\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+c:\users\thainá\documents\visual studio 2013\Projects\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\resources.resfiles
+c:\users\thainá\documents\visual studio 2013\Projects\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+c:\users\thainá\documents\visual studio 2013\Projects\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\pri.resfiles
+c:\users\thainá\documents\visual studio 2013\Projects\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+c:\users\thainá\documents\visual studio 2013\Projects\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\qualifiers.txt
+c:\users\thainá\documents\visual studio 2013\Projects\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+c:\users\thainá\documents\visual studio 2013\Projects\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+c:\users\thainá\documents\visual studio 2013\Projects\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\JogoSequencia.xbf
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\Questionario.xbf
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\Resultado.xbf
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\Projeto.WindowsPhone.xr.xml
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\Projeto.WindowsPhone.exe
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\Projeto.WindowsPhone.pdb
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\Projeto.WindowsPhone.build.appxrecipe
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\JogoSequencia.g.i.cs
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\JogoSequencia.g.cs
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Questionario.g.i.cs
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Questionario.g.cs
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Resultado.g.i.cs
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Resultado.g.cs
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\JogoSequencia.xaml
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Questionario.xaml
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Resultado.xaml
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\JogoSequencia.xbf
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Questionario.xbf
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Resultado.xbf
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Projeto.WindowsPhone.exe
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Projeto.WindowsPhone.pdb
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\comoJogar.g.i.cs
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\comoJogar.g.cs
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\sobre.g.i.cs
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\sobre.g.cs
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\comoJogar.xaml
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\comoJogar.xbf
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\comoJogar.xbf
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\sobre.xbf
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\sobre.xaml
+C:\Users\Diego\Desktop\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\sobre.xbf
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\comoJogar.xbf
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\JogoSequencia.xbf
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\Questionario.xbf
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\Resultado.xbf
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\sobre.xbf
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\Projeto.WindowsPhone.xr.xml
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\Projeto.WindowsPhone.exe
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\Projeto.WindowsPhone.pdb
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\Projeto.WindowsPhone.build.appxrecipe
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\comoJogar.g.i.cs
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\comoJogar.g.cs
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\JogoSequencia.g.i.cs
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\JogoSequencia.g.cs
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Questionario.g.i.cs
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Questionario.g.cs
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Resultado.g.i.cs
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Resultado.g.cs
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\sobre.g.i.cs
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\sobre.g.cs
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\comoJogar.xaml
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\JogoSequencia.xaml
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Questionario.xaml
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Resultado.xaml
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\sobre.xaml
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\comoJogar.xbf
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\JogoSequencia.xbf
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Questionario.xbf
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Resultado.xbf
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\sobre.xbf
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Projeto.WindowsPhone.exe
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Projeto.WindowsPhone.pdb
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\Ranking.xbf
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Ranking.g.i.cs
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Ranking.g.cs
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Ranking.xaml
+C:\Users\Diego\Desktop\Student to Business\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Ranking.xbf
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\comoJogar.g.i.cs
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\comoJogar.g.cs
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\JogoSequencia.g.i.cs
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\JogoSequencia.g.cs
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Questionario.g.i.cs
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Questionario.g.cs
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Ranking.g.i.cs
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Ranking.g.cs
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Resultado.g.i.cs
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Resultado.g.cs
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\sobre.g.i.cs
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\sobre.g.cs
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\comoJogar.xaml
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\JogoSequencia.xaml
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Questionario.xaml
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Ranking.xaml
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Resultado.xaml
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\sobre.xaml
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\comoJogar.xbf
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\JogoSequencia.xbf
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Questionario.xbf
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Ranking.xbf
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Resultado.xbf
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\sobre.xbf
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Projeto.WindowsPhone.exe
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\comoJogar.xbf
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\JogoSequencia.xbf
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\Questionario.xbf
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\Ranking.xbf
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\Resultado.xbf
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\sobre.xbf
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\Projeto.WindowsPhone.xr.xml
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\Projeto.WindowsPhone.exe
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\Projeto.WindowsPhone.pdb
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\Projeto.WindowsPhone.build.appxrecipe
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Projeto.WindowsPhone.pdb
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Thainá\Desktop\Auxilio\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\ProjectArchitectures.txt
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\App.xbf
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\comoJogar.xbf
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\JogoSequencia.xbf
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\MainPage.xbf
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\Questionario.xbf
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\Ranking.xbf
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\Resultado.xbf
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\sobre.xbf
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\Projeto.WindowsPhone.xr.xml
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\Projeto.WindowsPhone.exe
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\Projeto.WindowsPhone.pdb
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\resources.pri
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\AppxManifest.xml
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\Projeto.WindowsPhone.build.appxrecipe
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\App.g.i.cs
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\App.g.cs
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\comoJogar.g.i.cs
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\comoJogar.g.cs
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\JogoSequencia.g.i.cs
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\JogoSequencia.g.cs
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\MainPage.g.i.cs
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\MainPage.g.cs
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Questionario.g.i.cs
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Questionario.g.cs
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Ranking.g.i.cs
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Ranking.g.cs
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Resultado.g.i.cs
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Resultado.g.cs
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\sobre.g.i.cs
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\sobre.g.cs
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\XamlTypeInfo.g.cs
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\App.xaml
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\comoJogar.xaml
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\JogoSequencia.xaml
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\MainPage.xaml
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Questionario.xaml
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Ranking.xaml
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Resultado.xaml
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\sobre.xaml
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\App.xbf
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\comoJogar.xbf
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\JogoSequencia.xbf
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\MainPage.xbf
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Questionario.xbf
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Ranking.xbf
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Resultado.xbf
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\sobre.xbf
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\XamlSaveStateFile.xml
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Projeto.WindowsPhone.exe
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\Projeto.WindowsPhone.pdb
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\priconfig.xml
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\priconfig.xml.intermediate
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\layout.resfiles
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\layout.resfiles.intermediate
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\resources.resfiles
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\resources.resfiles.intermediate
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\pri.resfiles
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\pri.resfiles.intermediate
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\qualifiers.txt
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\qualifiers.txt.intermediate
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\MultipleQualifiersPerDimensionFound.txt
+C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\ProjectArchitectures.txt

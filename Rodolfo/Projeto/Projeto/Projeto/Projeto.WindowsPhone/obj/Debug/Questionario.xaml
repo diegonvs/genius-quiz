@@ -1,0 +1,25 @@
+﻿<Page
+    x:Class="Projeto.Questionario"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Projeto"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid>
+        <StackPanel x:Name="Teste" >
+            <TextBlock  Text="huehue" x:Name="Rodada" Height="100" VerticalAlignment="Top" FontSize="50"></TextBlock>
+            <TextBlock x:Name="Pergunta" Height="100"  FontSize="15"></TextBlock>
+            <RadioButton x:ConnectionId='1'                         x:Name="Opcao1" FontSize="26" Content="1opçao"></RadioButton>
+            <RadioButton x:ConnectionId='2'                          x:Name="Opcao2" FontSize="26" Content="2opçao"></RadioButton>
+            <RadioButton x:ConnectionId='3'                          x:Name="Opcao3"  FontSize="26" Content="3opçao"></RadioButton>
+            <Button Content="Pular" FontSize="24"></Button>
+            <TextBlock x:Name="auxiliar" Height="100"></TextBlock>
+        
+        </StackPanel>
+      
+    </Grid>
+</Page>
+

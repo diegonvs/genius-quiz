@@ -1,0 +1,19 @@
+﻿<Page
+    x:Class="Projeto.Resultado"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Projeto"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+    <Grid Margin="10" Background="White">
+        <Canvas>
+            <Button Height="60" Width="150" Canvas.Top="320" Canvas.Left="544" Style="{StaticResource botaoFundoBacana}" Content="Criar" x:Name="Criar" Click="Criar_Click"></Button>
+            <TextBox Background="Brown" Opacity="0.6" Height="30" Width="370" x:Name="NomePlayer" Margin="0" Canvas.Top="270" Canvas.Left="547"></TextBox>
+            <TextBlock Text="Resultado" Style="{StaticResource fontePrincipal}" x:Name="PathPasta" TextWrapping="Wrap" Canvas.Left="547" Canvas.Top="10"/>
+            <TextBlock Text="HSUDAHS" Style="{StaticResource fontePrincipal}" Width="370" VerticalAlignment="Top"  FontSize="40" x:Name="resposta" Canvas.Left="547" Canvas.Top="87" />
+            <Button Height="60" Width="150" Canvas.Left="770" Canvas.Top="320" Style="{StaticResource bQuest}" x:Name="ok2" Content="OK" Click="ok2_Click" />
+            <Image Source="trollphace.png" Width="200" Height="200" Canvas.Top="481" Canvas.Left="655"></Image>
+        </Canvas>
+    </Grid>
+</Page>

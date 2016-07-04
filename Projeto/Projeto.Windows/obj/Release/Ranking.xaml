@@ -1,0 +1,21 @@
+﻿<Page
+    x:Class="Projeto.Ranking"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Projeto"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="White">
+        <Canvas>
+            <TextBlock Style="{StaticResource fontePrincipal}" HorizontalAlignment="Center" Text="Ranking" />
+        </Canvas>
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+            <ListBox FontSize="25" Style="{StaticResource listboxRanking}" x:Name="ListaRanking"  Height="350" Margin="10" Background="White" ></ListBox>
+            <Button x:ConnectionId='1' Content="Voltar" Style="{StaticResource bQuest}" x:Name="Voltar"                      ></Button>
+            <Button x:ConnectionId='2' Content="Limpar Dados" Style="{StaticResource bQuest}" x:Name="Limpar"                      />
+        </StackPanel>
+    </Grid>
+</Page>
+

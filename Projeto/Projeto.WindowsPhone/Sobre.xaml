@@ -1,0 +1,30 @@
+﻿<Page
+    x:Class="Projeto.sobre"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Projeto"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Background="White" Margin="10">
+        <StackPanel>
+            <Canvas>
+                <TextBlock Style="{StaticResource fontePrincipal}" Text="Sobre:"/>
+                <TextBlock Canvas.Top="75" Style="{StaticResource fontePrincipal}" Text="Versão 0.1 BETA" FontSize="30" />
+                <TextBlock Canvas.Top="200" Style="{StaticResource fontePrincipal}" Text="Criado por:" FontSize="35" />
+                <TextBlock Canvas.Top="250" Style="{StaticResource fontePrincipal}" Text="Rodolfo Gomes" FontSize="25"/>
+                <TextBlock Canvas.Left="0" Canvas.Top="275" Style="{StaticResource fontePrincipal}" Text="fb.com/rodolfo.gomes.7393" FontSize="18"  />
+                <TextBlock Canvas.Left="0" Canvas.Top="300" Style="{StaticResource fontePrincipal}" Text="rgf@ecomp.poli.br" FontSize="18" />
+                <TextBlock Canvas.Top="350" Style="{StaticResource fontePrincipal}" Text="Diego Nascimento" FontSize="25" />
+                <TextBlock Canvas.Left="0" Canvas.Top="375" Style="{StaticResource fontePrincipal}" Text="fb.com/diegonvs97" FontSize="18" />
+                <TextBlock Canvas.Left="0" Canvas.Top="400" Style="{StaticResource fontePrincipal}" Text="diegonascimento@hotmail.com.br" FontSize="18" />
+                <TextBlock Canvas.Left="0" Canvas.Top="425" Style="{StaticResource fontePrincipal}" Text="dnvs@ecomp.poli.br" FontSize="18" />
+                <TextBlock Canvas.Left="0" Canvas.Top="450" Style="{StaticResource fontePrincipal}" Text="dnvs.hol.es" FontSize="18" />
+                <Button x:Name="voltacomoJogar" Style="{StaticResource botaoFundoBacana}" Content="Voltar" Canvas.Left="250" Canvas.Top="475" Click="voltacomoJogar_Click" />
+            </Canvas>
+        </StackPanel>
+        
+    </Grid>
+</Page>

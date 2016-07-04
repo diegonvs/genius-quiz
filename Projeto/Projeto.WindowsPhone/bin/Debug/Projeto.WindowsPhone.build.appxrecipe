@@ -1,0 +1,148 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>DIEGONASCIMENTO</Machine>
+    <WindowsUser>Diego</WindowsUser>
+    <TargetPlatformIdentifier>WindowsPhoneApp</TargetPlatformIdentifier>
+    <SolutionConfiguration>Debug|AnyCPU</SolutionConfiguration>
+    <PackageArchitecture>neutral</PackageArchitecture>
+    <PackageIdentityName>5ee1049e-47ee-40c2-b905-54c571f5c398</PackageIdentityName>
+    <IntermediateOutputPath>C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\obj\Debug\</IntermediateOutputPath>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\Projeto.WindowsPhone.exe">
+      <PackagePath>Projeto.WindowsPhone.exe</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\Assets\BadgeLogo.scale-100.png">
+      <PackagePath>Assets\BadgeLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\Assets\BadgeLogo.scale-140.png">
+      <PackagePath>Assets\BadgeLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\Assets\BadgeLogo.scale-240.png">
+      <PackagePath>Assets\BadgeLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\Assets\Logo.scale-100.png">
+      <PackagePath>Assets\Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\Assets\Logo.scale-140.png">
+      <PackagePath>Assets\Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\Assets\Logo.scale-240.png">
+      <PackagePath>Assets\Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\Assets\SmallLogo.scale-100.png">
+      <PackagePath>Assets\SmallLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\Assets\SmallLogo.scale-140.png">
+      <PackagePath>Assets\SmallLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\Assets\SmallLogo.scale-240.png">
+      <PackagePath>Assets\SmallLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\Assets\SplashScreen.scale-100.png">
+      <PackagePath>Assets\SplashScreen.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\Assets\SplashScreen.scale-140.png">
+      <PackagePath>Assets\SplashScreen.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\Assets\SplashScreen.scale-240.png">
+      <PackagePath>Assets\SplashScreen.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\Assets\Square71x71Logo.scale-100.png">
+      <PackagePath>Assets\Square71x71Logo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\Assets\Square71x71Logo.scale-140.png">
+      <PackagePath>Assets\Square71x71Logo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\Assets\Square71x71Logo.scale-240.png">
+      <PackagePath>Assets\Square71x71Logo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\Assets\StoreLogo.scale-100.png">
+      <PackagePath>Assets\StoreLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\Assets\StoreLogo.scale-140.png">
+      <PackagePath>Assets\StoreLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\Assets\StoreLogo.scale-240.png">
+      <PackagePath>Assets\StoreLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\Assets\WideLogo.scale-100.png">
+      <PackagePath>Assets\WideLogo.scale-100.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\Assets\WideLogo.scale-140.png">
+      <PackagePath>Assets\WideLogo.scale-140.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\Assets\WideLogo.scale-240.png">
+      <PackagePath>Assets\WideLogo.scale-240.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.Shared\geniusnovo.png">
+      <PackagePath>geniusnovo.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.Shared\trollphace.png">
+      <PackagePath>trollphace.png</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\StoreManifest.xml">
+      <PackagePath>StoreManifest.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\ComoJogar.xbf">
+      <PackagePath>ComoJogar.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\JogoSequencia.xbf">
+      <PackagePath>JogoSequencia.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\Questionario.xbf">
+      <PackagePath>Questionario.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\Ranking.xbf">
+      <PackagePath>Ranking.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\Resultado.xbf">
+      <PackagePath>Resultado.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\Sobre.xbf">
+      <PackagePath>Sobre.xbf</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\Projeto.WindowsPhone.xr.xml">
+      <PackagePath>Projeto.WindowsPhone.xr.xml</PackagePath>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\Diego\Desktop\PORJETAO\PORJETAO\Projeto\Projeto\Projeto.WindowsPhone\bin\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

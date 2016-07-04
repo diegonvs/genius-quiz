@@ -1,0 +1,22 @@
+﻿<Page
+    x:Class="Projeto.comoJogar"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Projeto"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Margin="10">
+        <Canvas Background="White">
+            <TextBlock Text="Como Jogar?" Style="{StaticResource fontePrincipal}"></TextBlock>
+            <TextBlock Canvas.Top="75" Width="380" Style="{StaticResource fontePrincipal}" FontSize="20" TextWrapping="WrapWholeWords" Text="Você seleciona o tipo das perguntas e depois você irá para o genius e se você acertar a combinação do genius você será submetido a uma pergunta e se acertar será submetido a uma nova pergunta." />
+            <TextBlock Canvas.Top="220" Style="{StaticResource fontePrincipal}" Text="Ridículo né? Você consegue :)" FontSize="20" />
+            <Image Width="300" Height="300" Canvas.Top="275" Canvas.Left="25" Source="Projeto;ms-appx://Projeto/images/trollfacepronta.png"></Image>
+            <Image Width="300" Height="300" Source="trollfacepronta.png" />
+            <Button x:ConnectionId='1' x:Name="voltacomoJogar" Style="{StaticResource botaoFundoBacana}" Content="Voltar" Canvas.Left="20" Canvas.Top="500"                              />
+        </Canvas>
+    </Grid>
+</Page>
+

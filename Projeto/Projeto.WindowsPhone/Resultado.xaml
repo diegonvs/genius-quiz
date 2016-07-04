@@ -1,0 +1,26 @@
+﻿<Page
+    x:Class="Projeto.Resultado"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Projeto"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d"
+    Background="{ThemeResource ApplicationPageBackgroundThemeBrush}">
+
+    <Grid Margin="10" Background="White">
+        <Canvas>
+            <Button Canvas.Top="199" Canvas.Left="32" Style="{StaticResource botaoFundoBacana}" Content="Criar" Click="Criar_Click" x:Name="Criar"></Button>
+            
+            <TextBlock Text="Resultado:" FontSize="50" Style="{StaticResource fontePrincipal}" x:Name="PathPasta" TextWrapping="Wrap"/>
+            <TextBlock Text="HSUDAHS" Style="{StaticResource fontePrincipal}" Width="370" VerticalAlignment="Top"  FontSize="30" x:Name="resposta" Canvas.Left="9" Canvas.Top="73" />
+            <Button Canvas.Left="222" Canvas.Top="199" Style="{StaticResource bQuest}" x:Name="ok2" Content="OK" Click="ok2_Click" />
+            <Image Source="trollphace.png" Width="200" Height="200" Canvas.Top="388" Canvas.Left="170"></Image>
+            <TextBlock Canvas.Top="260" Canvas.Left="20" FontSize="20" Text="Botão Criar coloca o nome no ranking :)" Style="{StaticResource fontePrincipal}" />
+        </Canvas>
+
+        <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center">
+            <TextBox Background="Brown" Opacity="0.6" Height="30" Width="370" x:Name="NomePlayer" Margin="0" Canvas.Top="150"></TextBox>
+        </StackPanel>
+    </Grid>
+</Page>
